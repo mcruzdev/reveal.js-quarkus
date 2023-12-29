@@ -15,3 +15,5 @@ js/reveal.min.js
 
 # Eclipse
 .project
+
+bower_components/
